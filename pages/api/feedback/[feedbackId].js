@@ -1,4 +1,4 @@
-import { buildFeedbackPath, extractFeedback } from "./feedback";
+import { buildFeedbackPath, extractFeedback } from ".";
 
 // Dynamic API route
 export default function handler(req, res) {
